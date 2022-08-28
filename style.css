@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTuvc_gyR6ElwXaKldxkHwTgtmkZQI0GBywr9IbXGK3hB3HSwQVpQEcYEQLPTz_CJ2Us&usqp=CAU);
+}
+
+h1{
+    font-size: 45px;
+    color: crimson;
+}
+
+#btnStyle{
+  background-color: crimson;
+  color: white;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+#album_familiar{
+    color: white;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+  }
+
+#nombre_familiar{
+    font-size: 35px;
+    color:indigo;
+}
